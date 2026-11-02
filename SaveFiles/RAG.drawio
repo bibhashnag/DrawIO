@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="-cMVRIu__5M2RxCTdCpD">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-7" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-1" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="48.5" width="50" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="S_PXdMC8sfSM5ynvMba3-2" value="">
+          <mxGeometry relative="1" x="0.3373" as="geometry">
+            <mxPoint x="629" y="214.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1031" y="214.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-22" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Chat Backend" vertex="1">
+          <mxGeometry height="60" width="120" x="751" y="184.25" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-20" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Authentication / SSO&lt;div&gt;(Rate Limiter)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="184.25" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Answer / Response" vertex="1">
+          <mxGeometry height="60" width="120" x="1141" y="184.25" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-12" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.425;entryY=0.963;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-8" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="RAG" vertex="1">
+          <mxGeometry height="80" width="70" x="601" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-14" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.408;entryY=0.996;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-9" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Commerce DB" vertex="1">
+          <mxGeometry height="60" width="60" x="726" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-17" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.599;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.417;entryY=0.946;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-2">
+          <mxGeometry relative="1" x="0.0028" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-10" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.service_application;labelPerimeter=1;" value="API" vertex="1">
+          <mxGeometry height="60" width="60" x="841" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-18" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.979;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-2">
+          <mxGeometry relative="1" x="0.0029" as="geometry">
+            <Array as="points">
+              <mxPoint x="991.0999999999999" y="280" />
+              <mxPoint x="801.6" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-11" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;labelPerimeter=1;" value="LLM" vertex="1">
+          <mxGeometry height="70" width="70" x="956" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-24" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Input Guardrail" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="184.25" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Output Guardrail" vertex="1">
+          <mxGeometry height="60" width="120" x="951" y="184.25" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-23" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/databases/1/Redis_Cache.svg;labelPerimeter=1;" value="semantic Caching" vertex="1">
+          <mxGeometry height="59" width="58" x="610" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-25" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/databases/1/DocumentDB.svg;labelPerimeter=1;" value="VectorStore&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="61" width="46" x="613" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="S_PXdMC8sfSM5ynvMba3-26" edge="1" parent="1" source="S_PXdMC8sfSM5ynvMba3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.505;entryY=0.865;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="S_PXdMC8sfSM5ynvMba3-8">
+          <mxGeometry relative="1" x="-0.0562" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
